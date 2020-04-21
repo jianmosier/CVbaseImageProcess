@@ -1,2 +1,1 @@
-# zz
-handsome
+#Base knowledge of CV Image Processing 
